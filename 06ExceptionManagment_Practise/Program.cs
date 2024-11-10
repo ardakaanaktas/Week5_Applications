@@ -8,13 +8,13 @@
 
             try
             {
-                int number = Convert.ToInt32(Console.ReadLine());
+                int number = Convert.ToInt32(Console.ReadLine()); // Kullanıcıdan alınan değeri integer'a çevirir. Bir hata oluşursa catch bloğuna düşer.
                 int result = number * number;
                 Console.Write("Sonuç: "+result);
             }
             catch (Exception e)
             {
-                Console.WriteLine("Geçersiz giriş! Lütfen bir sayı giriniz.");
+                Console.WriteLine("Geçersiz giriş! Lütfen bir sayı giriniz."); // Hata oluştuğunda burası çalışır.
             }
         }
     }
