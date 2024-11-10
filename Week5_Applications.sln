@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ExceptionManagmentCustom"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ExceptionManagment_Practise", "06ExceptionManagment_Practise\06ExceptionManagment_Practise.csproj", "{6104DA89-1604-42A9-87AC-5034637AB73D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndOfWeek_5", "EndOfWeek_5\EndOfWeek_5.csproj", "{059C29FE-4A4E-44D3-8162-91CFD1BD6B92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{6104DA89-1604-42A9-87AC-5034637AB73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6104DA89-1604-42A9-87AC-5034637AB73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6104DA89-1604-42A9-87AC-5034637AB73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059C29FE-4A4E-44D3-8162-91CFD1BD6B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059C29FE-4A4E-44D3-8162-91CFD1BD6B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059C29FE-4A4E-44D3-8162-91CFD1BD6B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059C29FE-4A4E-44D3-8162-91CFD1BD6B92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
