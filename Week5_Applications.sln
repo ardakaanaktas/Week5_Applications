@@ -17,6 +17,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03List_Practise-2", "03List
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDB_Application", "IMDB_Application\IMDB_Application.csproj", "{AFD38297-93B7-484E-A53A-A1A8541C968F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Dictionary", "04Dictionary\04Dictionary.csproj", "{0223A13F-0B8C-4FB3-98F0-D9E37856D71D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Stack", "05Stack\05Stack.csproj", "{4BEBC451-0881-4156-8AF4-A17325FE9A05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ExceptionManagment", "06ExceptionManagment\06ExceptionManagment.csproj", "{4F81DBCF-9329-445E-BBA6-D1E6962674AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ExceptionManagmentCustom", "06ExceptionManagmentCustom\06ExceptionManagmentCustom.csproj", "{46893487-AB4E-4A44-A2D9-78FE244B93A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ExceptionManagment_Practise", "06ExceptionManagment_Practise\06ExceptionManagment_Practise.csproj", "{6104DA89-1604-42A9-87AC-5034637AB73D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +61,26 @@ Global
 		{AFD38297-93B7-484E-A53A-A1A8541C968F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFD38297-93B7-484E-A53A-A1A8541C968F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFD38297-93B7-484E-A53A-A1A8541C968F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0223A13F-0B8C-4FB3-98F0-D9E37856D71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0223A13F-0B8C-4FB3-98F0-D9E37856D71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0223A13F-0B8C-4FB3-98F0-D9E37856D71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0223A13F-0B8C-4FB3-98F0-D9E37856D71D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BEBC451-0881-4156-8AF4-A17325FE9A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEBC451-0881-4156-8AF4-A17325FE9A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEBC451-0881-4156-8AF4-A17325FE9A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEBC451-0881-4156-8AF4-A17325FE9A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F81DBCF-9329-445E-BBA6-D1E6962674AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F81DBCF-9329-445E-BBA6-D1E6962674AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F81DBCF-9329-445E-BBA6-D1E6962674AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F81DBCF-9329-445E-BBA6-D1E6962674AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46893487-AB4E-4A44-A2D9-78FE244B93A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46893487-AB4E-4A44-A2D9-78FE244B93A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46893487-AB4E-4A44-A2D9-78FE244B93A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46893487-AB4E-4A44-A2D9-78FE244B93A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6104DA89-1604-42A9-87AC-5034637AB73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6104DA89-1604-42A9-87AC-5034637AB73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6104DA89-1604-42A9-87AC-5034637AB73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6104DA89-1604-42A9-87AC-5034637AB73D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
